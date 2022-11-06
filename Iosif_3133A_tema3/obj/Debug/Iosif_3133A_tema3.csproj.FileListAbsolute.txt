@@ -1,0 +1,14 @@
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\bin\Debug\Iosif_3133A_tema3.exe.config
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\bin\Debug\Iosif_3133A_tema3.exe
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\bin\Debug\Iosif_3133A_tema3.pdb
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\bin\Debug\OpenTK.dll
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\bin\Debug\OpenTK.pdb
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\bin\Debug\OpenTK.xml
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\obj\Debug\Iosif_3133A_tema3.csproj.CoreCompileInputs.cache
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\obj\Debug\Iosif_3133A_tema3.csproj.CopyComplete
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\obj\Debug\Iosif_3133A_tema3.exe
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\obj\Debug\Iosif_3133A_tema3.pdb
+C:\Users\ilies\Desktop\EGC\Tema3\Iliese\Iosif_3133A_tema3\obj\Debug\Iosif_3133A_tema3.csproj.AssemblyReference.cache
